@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my [personal site](https://lorenzomtzz.com).
 - 🌱 I’m currently learning more about ML, as well as React for fun.
 - 👯 I’m looking to collaborate on any interesting AI/ML ideas!
-- 📫 How to reach me: martinezlorenzo2001@gmail.com
+- 📫 How to reach me: lorenzomtz@utexas.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love fitness, sports, photography, and hiking!
 
