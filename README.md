@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on any interesting AI/ML ideas!
 - 📫 How to reach me: lorenzomtz@utexas.edu
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love fitness, sports, photography, and hiking!
+- ⚡ Fun fact: I love fitness, sports, photography, and gaming!
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=lorenzomtz&show_icons=true)
 
