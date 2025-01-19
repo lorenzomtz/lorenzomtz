@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my [personal site](https://lorenzomtzz.com).
-- 🌱 I’m currently learning about UNIX + Ruby for fun.
-- 👯 I’m looking to collaborate on any interesting AI/ML ideas!
-- 📫 How to reach me: lorenzomtz@utexas.edu
+- 🔭 I’m working on my [personal site](https://lorenzomtzz.com).
+- 🌱 I’m currently learning about networking concepts for fun.
+- 📫 How to reach me: lorenzomtzza@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love fitness, sports, photography, and gaming!
 
