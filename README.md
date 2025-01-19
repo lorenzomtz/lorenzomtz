@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my [personal site](https://lorenzomtzz.com).
-- 🌱 I’m currently learning more about ML, as well as React for fun.
+- 🌱 I’m currently learning about UNIX + Ruby for fun.
 - 👯 I’m looking to collaborate on any interesting AI/ML ideas!
 - 📫 How to reach me: lorenzomtz@utexas.edu
 - 😄 Pronouns: He/Him/His
