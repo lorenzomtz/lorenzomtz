@@ -2,7 +2,7 @@
 
 - 🔭 I’m working on my [personal site](https://lorenzomtzz.com).
 - 🌱 I’m currently learning about networking concepts for fun.
-- 📫 How to reach me: lorenzomtzza@gmail.com
+- 📫 How to reach me: lorenzomtzz@pm.me
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love fitness, sports, photography, and gaming!
 
