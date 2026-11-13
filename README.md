@@ -6,8 +6,8 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love fitness, sports, photography, and gaming!
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=lorenzomtz&show_icons=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lorenzomtz&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=lorenzomtz&show_icons=true&include_all_commits=true&theme=gruvbox)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzomtz&theme=blue-green)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lorenzomtz&layout=compact&hide_title=true&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=lorenzomtz&layout=compact&hide_title=true&langs_count=4&theme=gruvbox)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=lorenzomtz)
